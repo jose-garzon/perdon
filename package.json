@@ -1,0 +1,11 @@
+{
+  "name": "prj_05_perdon",
+  "version": "1.0.0",
+  "description": "Ideal para pedir perdón",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
